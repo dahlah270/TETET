@@ -11,8 +11,7 @@ Do whatever at your own risk. Just saying once again that if anybody doesn't lik
 <div align="center">
         <p> <img src="https://i.imgur.com/lBSqWgt.png"/> </p>
         <p><i><b>Moderation, fun, utility and much more! (Rewrite)</b></i></p>
-	<p> 
-		<a href="https://discord.gg/2B4UvKx"><img src="<iframe src="https://discord.com/widget?id=839836243990806578&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>" alt="" /></a>
+	<iframe src="https://discord.com/widget?id=839836243990806578&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 	</p>
 	<p>	<img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge" alt="passing" /></a>
 		<img src="https://img.shields.io/badge/python-3.6-brightgreen.svg?style=for-the-badge" alt="python 3.6" /></a>
