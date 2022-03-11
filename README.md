@@ -11,11 +11,10 @@ Do whatever at your own risk. Just saying once again that if anybody doesn't lik
 <div align="center">
         <p> <img src="https://i.imgur.com/lBSqWgt.png"/> </p>
         <p><i><b>Moderation, fun, utility and much more! (Rewrite)</b></i></p>
-	<iframe src="https://discord.com/widget?id=839836243990806578&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 	</p>
 	<p>	<img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge" alt="passing" /></a>
 		<img src="https://img.shields.io/badge/python-3.6-brightgreen.svg?style=for-the-badge" alt="python 3.6" /></a>
-		<a href="https://github.com/Rapptz/discord.py"><img src="https://img.shields.io/badge/discord-py-orange.svg?style=for-the-badge" alt="discord.py" /></a>
+		<a href="https://github.com/dahlah270/TETET"><img src="https://img.shields.io/badge/discord-py-orange.svg?style=for-the-badge" alt="discord.py" /></a>
 	</p>
 </div> 
 
@@ -31,9 +30,9 @@ This branch of the selfbot runs on discord.py rewrite, the next major version of
 * Complex embed commands
 * Miscellaneous commands 
 * Easy to make your own commands
-* Community Cogs *(coming soon, join [our discord](https://discord.gg/2B4UvKx) for updates)*
+* Community Cogs *(coming soon, join [our discord](https://discord.gg/54fcEUPPEj) for updates)*
 
-If you want to request features, [create an issue](https://github.com/verixx/selfbot/issues) on this repo.
+If you want to request features, [create an issue](https://discord.gg/54fcEUPPEj) on this repo.
 
 
 This is a `stateless selfbot` (Saves no data) *This means that you can [host it on heroku](https://github.com/verixx/selfbot/wiki/Heroku) 24/7 for free*  
