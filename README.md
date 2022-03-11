@@ -21,7 +21,7 @@ Do whatever at your own risk. Just saying once again that if anybody doesn't lik
 ## [Welcome](http://selfbot-py.tk) 
 This branch of the selfbot runs on discord.py rewrite, the next major version of the library. The selfbot has been completely rewritten with better code and structure. Head on to the website for documentation and easy to understand install guides: http://selfbot-py.tk
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cgrok/selfbot.py/tree/rewrite)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dahlah270/TETET)
 
 ## Features
 
@@ -52,4 +52,4 @@ Note: You **do not** have to add default cogs into `data/community_cogs.txt`.
 
 ## Acknowledgements 
 
-> Eval and google commands by [Rapptz](https://github.com/Rapptz) from R.Danny
+> Eval and google commands by [Rapptz](https://github.com/dahlah270) from Budi Subejo
